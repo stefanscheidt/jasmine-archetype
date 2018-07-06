@@ -4,7 +4,7 @@ jsts-jasmine-archetype
 Description
 -----------
 
-[Maven](http://maven.apache.org/) [Archetype](http://maven.apache.org/guides/introduction/introduction-to-archetypes.html) for projects using [Jasmine](http://pivotal.github.com/jasmine/).
+[Maven](http://maven.apache.org/) [Archetype](http://maven.apache.org/guides/introduction/introduction-to-archetypes.html) for projects using [Jasmine](https://jasmine.github.io/).
 
 Usage
 -----
